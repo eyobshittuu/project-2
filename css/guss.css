@@ -75,6 +75,16 @@ body{
   background: #1BB295;
   transition: all 0.3s ease;
 }
+.bbb {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 .content .reset-btn:hover{
   background: #18a589;
 }

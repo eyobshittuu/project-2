@@ -121,19 +121,19 @@ addEventListener("keydown", (e) => {
 
   if (e.key === "s") {
     two.classList.add("white-active");
-    playSound(new Audio("./sounds/white-keys/1.mp3"));
+    playSound(new Audio("/sounds/black-keys/1.mp3"));
   }
   if (e.key === "d") {
     three.classList.add("white-active");
-    playSound(new Audio("./sounds/white-keys/2.mp3"));
+    playSound(new Audio("/sounds/white-keys/12.mp3"));
   }
   if (e.key === "f") {
     four.classList.add("white-active");
-    playSound(new Audio("./sounds/white-keys/3.mp3"));
+    playSound(new Audio("/sounds/white-keys/13.mp3"));
   }
   if (e.key === "g") {
     five.classList.add("white-active");
-    playSound(new Audio("./sounds/white-keys/4.mp3"));
+    playSound(new Audio("/sounds/white-keys/16.mp3"));
   }
   if (e.key === "h") {
     six.classList.add("white-active");

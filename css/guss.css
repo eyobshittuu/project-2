@@ -69,20 +69,23 @@ body{
   cursor: pointer;
   color: #fff;
   outline: none;
-  padding: 15px 0;
+  text-align: center;
+  padding: 10px 0;
   font-size: 17px;
   border-radius: 5px;
   background: #1BB295;
   transition: all 0.3s ease;
 }
-.bbb {
-  background-color: #04AA6D; /* Green */
-  border: none;
+button.bbb {
+  background-color: #12bec4; /* Green */
+  border:none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
+  padding:12px;
+  text-align:center;
   text-decoration: none;
+  margin-left: 150px;
   display: inline-block;
+  margin-top: 50px;
   font-size: 16px;
 }
 .content .reset-btn:hover{

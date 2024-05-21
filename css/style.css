@@ -20,6 +20,17 @@ html {
   padding: 1rem;
   margin-top: 3rem;
 }
+.bbb{
+
+    width: 50%;
+    color: #fff;
+    padding: 15px 34px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    background: #f53e06;
+    transition: transform 0.3s ease;
+}
 
 .key {
   width: 2.5rem;
